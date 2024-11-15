@@ -1,0 +1,12 @@
+# MySQL/MariaDB database files
+*.ibd
+*.frm
+*.myd
+*.myi
+*.mrg
+*.ib_logfile*
+*.ibdata*
+
+# MySQL/MariaDB configuration files
+my.cnf
+my.ini
